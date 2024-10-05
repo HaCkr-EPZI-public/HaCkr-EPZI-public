@@ -20,7 +20,7 @@
 ***
 
 
-<table><tr><th>EPZI GANG</th><th> Yuren Sasanka </th></tr><td><a href="http://www.hackr-epzi.ml/"><img src="https://i.ibb.co/d4ZnCrb/hckrepzi4.png" width="180" alt="HaCkr EPZI"></a></td><td><a href="https://github.com/HaCkr-EPZI-public"><img src="https://i.ibb.co/1rrtcKR/Seeya-Airtel-20220217-092411.jpg" width="180" alt="Yuren Sasanka"></a></td></tr><tr><td>  SQUAD</td><td>Developer & Owner </td></tr></tr></table>
+<div align="center"> <table><tr><th>EPZI GANG</th><th> Yuren Sasanka </th></tr><td><a href="http://www.hackr-epzi.ml/"><img src="https://i.ibb.co/d4ZnCrb/hckrepzi4.png" width="180" alt="HaCkr EPZI"></a></td><td><a href="https://github.com/HaCkr-EPZI-public"><img src="https://i.ibb.co/1rrtcKR/Seeya-Airtel-20220217-092411.jpg" width="180" alt="Yuren Sasanka"></a></td></tr><tr><td>  SQUAD</td><td>Developer & Owner </td></tr></tr></table></div>div>
 
 
 ***
