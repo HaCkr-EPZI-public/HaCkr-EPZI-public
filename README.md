@@ -10,12 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3498DB&center=true&width=435&lines=🚀+Welcome+to+Asmodeus+Epzi's+GitHub!;🌿+Crafting+organic+code+with+passion!;✨+Let's+build+the+future+together!;" alt="Typing Animation">
 </div>
 
-<!-- Background Video -->
+<!-- Embedded Videos -->
 <div align="center" style="margin-top: 20px;">
-  <video autoplay loop muted width="100%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
-    <source src="https://github.com/HaCkr-EPZI-public/CuduNona/raw/refs/heads/main/media/VID-20241110-WA0141(1).mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <!-- Video 1 -->
+  <a href="https://imgur.com/GFwQ9xK" target="_blank">
+    <img src="https://i.imgur.com/GFwQ9xK.png" alt="Click to Play Video 1" width="600" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
+  </a>
+  <p><i>Click the image to play the video on Imgur</i></p>
 </div>
 
 ---
@@ -59,11 +60,6 @@
 </div>
 
 ---
-
-<!-- Running Bar Animation -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/HaCkr-EPZI-public/CuduNona/raw/refs/heads/main/media/VID-20241110-WA0141(1).mp4" alt="Running Bar Animation" style="width: 100%; max-width: 500px; border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
-</div>
 
 <div align="center">
   <h3>🌿 “Code with creativity. Build with passion. Innovate for the future.” 🌿</h3>
