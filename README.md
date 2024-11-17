@@ -10,16 +10,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3498DB&center=true&width=435&lines=🚀+Welcome+to+Asmodeus+Epzi's+GitHub!;🌿+Crafting+organic+code+with+passion!;✨+Let's+build+the+future+together!;" alt="Typing Animation">
 </div>
 
-<!-- Background GIF -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://imgur.com/yy2Wd5l.gif" alt="Background Animation" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
-</div>
-
 ---
 
 ## 🚀 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭  
 <div align="center">
   🎯 <a href="https://github.com/HaCkr-EPZI-public/Queen-D" style="color: #3498DB; font-weight: bold;">**ϙᴜᴇᴇɴ-ᴅ**</a>
+</div>
+
+<!-- GIF Added Here -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://i.imgur.com/yy2Wd5l.gif" alt="Currently Working Project GIF" width="70%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
 </div>
 
 ---
