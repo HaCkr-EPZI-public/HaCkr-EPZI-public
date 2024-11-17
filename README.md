@@ -19,7 +19,7 @@
 
 <!-- GIF Added Here -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://i.imgur.com/yy2Wd5l.gif" alt="Currently Working Project GIF" width="70%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
+  <img src="https://raw.githubusercontent.com/HaCkr-EPZI-public/CuduNona/blob/main/epzi1-ezgif.com-video-to-gif-converter.gif" alt="Currently Working Project GIF" width="70%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
 </div>
 
 ---
