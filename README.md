@@ -10,13 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3498DB&center=true&width=435&lines=🚀+Welcome+to+Asmodeus+Epzi's+GitHub!;🌿+Crafting+organic+code+with+passion!;✨+Let's+build+the+future+together!;" alt="Typing Animation">
 </div>
 
-<!-- Embedded Videos -->
+<!-- Background GIF -->
 <div align="center" style="margin-top: 20px;">
-  <!-- Video 1 -->
-  <a href="https://imgur.com/GFwQ9xK" target="_blank">
-    <img src="https://i.imgur.com/GFwQ9xK.png" alt="Click to Play Video 1" width="600" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
-  </a>
-  <p><i>Click the image to play the video on Imgur</i></p>
+  <img src="https://imgur.com/yy2Wd5l.gif" alt="Background Animation" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
 </div>
 
 ---
