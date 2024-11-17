@@ -1,13 +1,18 @@
 <div align="center">
-  <img src="https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg" alt="Asmodeus Epzi Logo" width="200" height="200">
-  <h1>✨ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ 💸 ✨</h1>
+  <img src="https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg" alt="Asmodeus Epzi Logo" width="180" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
+  <h1>✨ 𝓐𝓼ᴍᴏᴅᴇᴜ𝓼 𝓔ᴘᴢɪ 💸 ✨</h1>
   <p><i>Turning ideas into extraordinary code</i></p>
-  <hr>
+  <div style="width: 50%; margin: auto; border-top: 1px solid #ddd; margin-bottom: 20px;"></div>
+</div>
+
+<!-- Typing Text Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3498DB&center=true&width=435&lines=🚀+Welcome+to+Asmodeus+Epzi's+GitHub!;🌿+Crafting+organic+code+with+passion!;✨+Let's+build+the+future+together!;" alt="Typing Animation">
 </div>
 
 <!-- Background Video -->
-<div align="center">
-  <video autoplay loop muted width="100%">
+<div align="center" style="margin-top: 20px;">
+  <video autoplay loop muted width="100%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
     <source src="https://github.com/HaCkr-EPZI-public/CuduNona/raw/refs/heads/main/media/VID-20241110-WA0141(1).mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -15,37 +20,51 @@
 
 ---
 
-## 🚀 Current Working Project
-🎯 [**ϙᴜᴇᴇɴ-ᴅ**](https://github.com/HaCkr-EPZI-public/Queen-D)  
-
----
-
-## 🔗 Connect With Me  
+## 🚀 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭  
 <div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94759554531)
-[![Facebook](https://img.shields.io/badge/Facebook-Yuren%20Sasanka-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/yuren.sasanka)
-[![Instagram](https://img.shields.io/badge/Instagram-Yuren%20Sasanka-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuren.sasanka/)
-[![YouTube](https://img.shields.io/badge/YouTube-EPZi-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EPZi)
-
+  🎯 <a href="https://github.com/HaCkr-EPZI-public/Queen-D" style="color: #3498DB; font-weight: bold;">**ϙᴜᴇᴇɴ-ᴅ**</a>
 </div>
 
 ---
 
-## 🌌 About Me
-✨ A creative developer passionate about **AI**, **open-source projects**, and building solutions that stand out.  
-✨ Constantly experimenting with **cutting-edge technology** to make **aesthetic, functional, and organic code**.
-
----
-
-## 📊 GitHub Stats  
+## 🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaCkr-EPZI-public&show_icons=true&theme=radical&hide=issues" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaCkr-EPZI-public&layout=compact&theme=radical" width="400px" />
+  <a href="https://wa.me/94759554531">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://web.facebook.com/yuren.sasanka">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/yuren.sasanka/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@EPZi">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </div>
 
 ---
 
+## 🌟 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞  
 <div align="center">
-  <h3>🌟 Let's build the future together! 🌟</h3>
+  <p style="font-size: 18px; color: #2E86C1;">I’m a passionate developer who thrives on blending creativity and technology. Building AI-driven solutions and making innovation accessible is my mission. Let’s shape a brighter future through code!</p>
+</div>
+
+---
+
+## 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaCkr-EPZI-public&show_icons=true&theme=github_dark&hide=issues" width="400px" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaCkr-EPZI-public&layout=compact&theme=github_dark" width="400px" alt="Top Languages">
+</div>
+
+---
+
+<!-- Running Bar Animation -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github.com/HaCkr-EPZI-public/CuduNona/raw/refs/heads/main/media/VID-20241110-WA0141(1).mp4" alt="Running Bar Animation" style="width: 100%; max-width: 500px; border-radius: 10px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.4);">
+</div>
+
+<div align="center">
+  <h3>🌿 “Code with creativity. Build with passion. Innovate for the future.” 🌿</h3>
 </div>
