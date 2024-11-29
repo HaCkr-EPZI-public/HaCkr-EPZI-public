@@ -51,8 +51,8 @@
 
 ## 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaCkr-EPZI-public&show_icons=true&theme=github_dark&hide=issues" width="400px" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaCkr-EPZI-public&layout=compact&theme=github_dark" width="400px" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaCkr-EPZI-public&show_icons=true&theme=github_dark&hide=issues&cache_seconds=86400" width="400px" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaCkr-EPZI-public&layout=compact&theme=github_dark&cache_seconds=86400" width="400px" alt="Top Languages">
 </div>
 
 ---
