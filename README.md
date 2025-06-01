@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 👾 Rex Epzi
+#  Rex Epzi 👾
 ### 🚀 Software Engineering Student • Full-Stack Developer • Game Server Architect
 
 </div>
